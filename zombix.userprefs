@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="zombix.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\OrbManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameManager.cs" Line="112" Column="22" />
+      <File FileName="Assets\Scripts\OrbManager.cs" Line="56" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
